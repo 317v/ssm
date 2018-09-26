@@ -1,6 +1,6 @@
-package cap.mapper;
+package com.springmvc.mapper;
 
-import cap.model.Admin;
+import com.springmvc.model.Admin;
 
 public interface AdminMapper {
     /**

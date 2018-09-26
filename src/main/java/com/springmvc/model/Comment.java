@@ -1,4 +1,4 @@
-package cap.model;
+package com.springmvc.model;
 
 import java.util.Date;
 

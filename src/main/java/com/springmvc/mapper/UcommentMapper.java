@@ -1,6 +1,6 @@
-package cap.mapper;
+package com.springmvc.mapper;
 
-import cap.model.UcommentWithBLOBs;
+import com.springmvc.model.UcommentWithBLOBs;
 
 public interface UcommentMapper {
     /**

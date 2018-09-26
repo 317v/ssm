@@ -1,6 +1,6 @@
-package cap.mapper;
+package com.springmvc.mapper;
 
-import cap.model.Counter;
+import com.springmvc.model.Counter;
 
 public interface CounterMapper {
     /**

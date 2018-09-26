@@ -1,7 +1,7 @@
-package cap.controller;
+package com.springmvc.controller;
 
-import cap.model.Admin;
-import cap.service.AdminService;
+import com.springmvc.model.Admin;
+import com.springmvc.service.AdminService;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

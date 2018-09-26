@@ -1,6 +1,6 @@
-package cap.mapper;
+package com.springmvc.mapper;
 
-import cap.model.User;
+import com.springmvc.model.User;
 
 public interface UserMapper {
     /**

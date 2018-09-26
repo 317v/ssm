@@ -1,8 +1,8 @@
-package cap.controller;
+package com.springmvc.controller;
 
-import cap.model.User;
-import cap.service.ArticleService;
-import cap.util.PageControl;
+import com.springmvc.model.User;
+import com.springmvc.service.ArticleService;
+import com.springmvc.util.PageControl;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

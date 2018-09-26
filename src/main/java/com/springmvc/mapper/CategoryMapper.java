@@ -1,6 +1,6 @@
-package cap.mapper;
+package com.springmvc.mapper;
 
-import cap.model.Category;
+import com.springmvc.model.Category;
 
 public interface CategoryMapper {
     /**

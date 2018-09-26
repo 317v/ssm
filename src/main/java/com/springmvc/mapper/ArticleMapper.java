@@ -1,7 +1,7 @@
-package cap.mapper;
+package com.springmvc.mapper;
 
-import cap.model.Article;
-import cap.model.ArticleWithBLOBs;
+import com.springmvc.model.Article;
+import com.springmvc.model.ArticleWithBLOBs;
 
 public interface ArticleMapper {
     /**

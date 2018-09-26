@@ -1,7 +1,7 @@
-package cap.mapper;
+package com.springmvc.mapper;
 
-import cap.model.BlogInfo;
-import cap.model.BlogInfoWithBLOBs;
+import com.springmvc.model.BlogInfo;
+import com.springmvc.model.BlogInfoWithBLOBs;
 
 public interface BlogInfoMapper {
     /**

@@ -3,9 +3,9 @@
          xmlns="http://java.sun.com/xml/ns/javaee"
          xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
          id="WebApp_ID" version="3.0">
-  <display-name>ssm</display-name>
+  <display-name>helloworld</display-name>
   <welcome-file-list>
-    <welcome-file>index</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
   </welcome-file-list>
 
   <!-- 加载Spring和MyBatis的整合配置文件 -->

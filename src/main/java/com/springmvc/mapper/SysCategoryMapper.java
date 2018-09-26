@@ -1,6 +1,6 @@
-package cap.mapper;
+package com.springmvc.mapper;
 
-import cap.model.SysCategory;
+import com.springmvc.model.SysCategory;
 
 public interface SysCategoryMapper {
     /**

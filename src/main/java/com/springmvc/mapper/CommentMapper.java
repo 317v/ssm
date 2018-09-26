@@ -1,6 +1,6 @@
-package cap.mapper;
+package com.springmvc.mapper;
 
-import cap.model.Comment;
+import com.springmvc.model.Comment;
 
 public interface CommentMapper {
     /**

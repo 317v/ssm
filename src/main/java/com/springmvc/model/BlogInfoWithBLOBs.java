@@ -1,4 +1,6 @@
-package cap.model;
+package com.springmvc.model;
+
+
 
 public class BlogInfoWithBLOBs extends BlogInfo {
     /**

@@ -1,6 +1,6 @@
-package cap.mapper;
+package com.springmvc.mapper;
 
-import cap.model.Profile;
+import com.springmvc.model.Profile;
 
 public interface ProfileMapper {
     /**
